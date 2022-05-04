@@ -10,15 +10,15 @@ RecyclerView on the other hand is an adapterview that allows us render large dat
 
 ### Contact.java
 
-Simple class to create contacts (that are stored in the Database) containing an id, name, and email.
+Simple class to create contacts (that are stored in the **SQLite Database**) containing an id, name, and email.
 
 ### MainActivity.java
 
-The main activity contains a RecyclerView to show the entries in the database and initializes the adapters.
+The main activity contains a **RecyclerView** to show the entries in the database and initializes the adapters.
 
 ### DatabaseAdapter.java
 
-The adapter to collect data (a list of contacts) from the database using a Cursor to show in our Main Activity (through a RecyclerView).
+The adapter to collect data (a list of contacts) from the database using a **Cursor** to show in our Main Activity (through a RecyclerView).
 
 ### DatabaseHelper.java
 
