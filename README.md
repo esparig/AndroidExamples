@@ -18,7 +18,7 @@ The main activity contains a RecyclerView to show the entries in the database an
 
 ### DatabaseAdapter.java
 
-The adapter to collect data (a list of contacts) from the database to show in our Main Activity (through a RecyclerView).
+The adapter to collect data (a list of contacts) from the database using a Cursor to show in our Main Activity (through a RecyclerView).
 
 ### DatabaseHelper.java
 
