@@ -27,3 +27,11 @@ The database helper to create, update, query... our local SQLite database. It in
 ### ContactAdapter.java
 
 The adapter to populate the view holders of our RecyclerView. It inherits from RecyclerView.Adapter<>.
+
+### activity_main.xml
+
+Layout of out main activity.
+
+### single_item.xml
+
+Layout for an item that will show in the recycler view of the main activity.
