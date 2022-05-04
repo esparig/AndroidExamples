@@ -1,0 +1,12 @@
+/ContactList/*.iml
+/ContactList/.gradle
+/ContactList/local.properties
+/ContactList/.idea
+/ContactList/.DS_Store
+/ContactList/build
+/ContactList/captures
+/ContactList/.externalNativeBuild
+/ContactList/.cxx
+/ContactList/local.properties
+
+
