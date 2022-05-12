@@ -35,3 +35,16 @@ Layout of out main activity.
 ### single_item.xml
 
 Layout for an item that will show in the recycler view of the main activity.
+
+## NoTitleActivity
+
+This simple tutorial is to show you how to make not showing Action Bar in the activities of your Android Application...
+
+### themes.xml
+
+...By just adding this two lines in your themes.xml. Make sure you are using this theme in your android manifest.
+```
+<!-- Customize your theme here. -->
+<item name="windowNoTitle">true</item>
+<item name="windowActionBar">false</item>
+```
