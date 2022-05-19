@@ -2,7 +2,8 @@
 
 ## Contents
 - [ContactList](#contactlist) 
-- [NoTitleActivity](#notitleactivity) 
+- [NoTitleActivity](#notitleactivity)
+- [Videodemo](#videodemo) 
 
 ## ContactList
 
@@ -52,3 +53,7 @@ This simple tutorial is to show you how to make not showing Action Bar in the ac
 <item name="windowNoTitle">true</item>
 <item name="windowActionBar">false</item>
 ```
+## Videodemo
+
+Tutorial extracted from https://www.geeksforgeeks.org/how-to-play-video-from-url-in-android/
+For showing the video in our android application we will use the VideoView widget. The VideoView widget is capable of playing media files, and the formats supported by the VideoView are 3gp and MP4. By using VideoView you can play media files from the local storage and also from the internet.
